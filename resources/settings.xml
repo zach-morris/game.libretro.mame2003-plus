@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="mame2003-plus_frameskip" values="0|1|2|3|4|5" default="0"/>
+		<setting label="30002" type="select" id="mame2003-plus_dcs_speedhack" values="enabled|disabled" default="enabled"/>
+		<setting label="30003" type="select" id="mame2003-plus_skip_disclaimer" values="enabled|disabled" default="enabled"/>
+		<setting label="30004" type="select" id="mame2003-plus_skip_warnings" values="enabled|disabled" default="disabled"/>
+		<setting label="30005" type="select" id="mame2003-plus_sample_rate" values="48000|8000|11025|22050|44100" default="48000"/>
+		<setting label="30006" type="select" id="mame2003-plus_external_hiscore" values="enabled|disabled" default="disabled"/>
+		<setting label="30007" type="select" id="mame2003-plus_dialsharexy" values="enabled|disabled" default="disabled"/>
+		<setting label="30008" type="select" id="mame2003-plus_mouse_device" values="pointer|mouse|disabled" default="mouse"/>
+		<setting label="30009" type="select" id="mame2003-plus_crosshair_enabled" values="enabled|disabled" default="enabled"/>
+		<setting label="30010" type="select" id="mame2003-plus_rstick_to_btns" values="enabled|disabled" default="enabled"/>
+		<setting label="30011" type="select" id="mame2003-plus_tate_mode" values="enabled|disabled" default="disabled"/>
+		<setting label="30012" type="select" id="mame2003-plus_skip-rom-verify" values="enabled|disabled" default="disabled"/>
+		<setting label="30013" type="select" id="mame2003-plus_vector_resolution_multiplier" values="1|2|3|4|5|6" default="1"/>
+		<setting label="30014" type="select" id="mame2003-plus_vector_antialias" values="enabled|disabled" default="disabled"/>
+		<setting label="30015" type="select" id="mame2003-plus_vector_translucency" values="enabled|disabled" default="enabled"/>
+		<setting label="30016" type="select" id="mame2003-plus_vector_beam_width" values="1|2|3|4|5" default="1"/>
+		<setting label="30017" type="select" id="mame2003-plus_vector_flicker" values="20|0|10|20|30|40|50|60|70|80|90|100" default="20"/>
+		<setting label="30018" type="select" id="mame2003-plus_vector_intensity" values="1.5|0.5|1|2|2.5|3" default="1.5"/>
+		<setting label="30019" type="select" id="mame2003-plus_display_setup" values="enabled|disabled" default="disabled"/>
+		<setting label="30020" type="select" id="mame2003-plus_brightness" values="1.0|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0" default="1.0"/>
+		<setting label="30021" type="select" id="mame2003-plus_gamma" values="1.2|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0" default="1.2"/>
+		<setting label="30022" type="select" id="mame2003-plus_enable_backdrop" values="enabled|disabled" default="disabled"/>
+		<setting label="30023" type="select" id="mame2003-plus_neogeo_bios" values="default|euro|euro-s1|us|us-e|asia|japan|japan-s2|unibios33|unibios20|unibios13|unibios11|unibios10|debug|asia-aes" default="default"/>
+		<setting label="30024" type="select" id="mame2003-plus_stv_bios" values="default|japan|japana|us|japan_b|taiwan|europe" default="default"/>
+		<setting label="30025" type="select" id="mame2003-plus_use_alt_sound" values="enabled|disabled" default="enabled"/>
+		<setting label="30026" type="select" id="mame2003-plus_dual_joysticks" values="enabled|disabled" default="disabled"/>
+		<setting label="30027" type="select" id="mame2003-plus_nvram_bootstraps" values="enabled|disabled" default="enabled"/>
+		<setting label="30028" type="select" id="mame2003-plus_input_interface" values="retropad|mame_keyboard|simultaneous" default="retropad"/>
+		<setting label="30029" type="select" id="mame2003-plus_mame_remapping" values="enabled|disabled" default="disabled"/>
+	</category>
+</settings>
